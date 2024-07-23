@@ -1,4 +1,5 @@
 <h1>Desafio de projeto da DIO.me: Mario Kart.JS no curso de Formação Node.js Fundamentals</h1>
+<p>Codigo foi alterado seguindo o desafio de melhoria do mesmo.</p>
 
   <table>
         <tr>
@@ -101,3 +102,22 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+ <h2>Como Executar</h2>
+
+  <h3>Pré-requisitos</h3>
+  <p>Certifique-se de ter o Node.js instalado na sua máquina. Você pode baixá-lo e instalá-lo através do <a href="https://nodejs.org/" target="_blank">site oficial do Node.js</a>.</p>
+
+  <h3>Instalação</h3>
+  <ol>
+    <li>Clone este repositório para o seu ambiente local:</li>
+    <code>git clone https://github.com/ederson-joao/projeto-mario-kart.git</code>
+    <li>Navegue até o diretório do projeto:</li>
+    <code>cd projeto-mario-kart</code>
+    <li>Instale as dependências necessárias:</li>
+    <code>npm install</code>
+  </ol>
+
+  <h3>Execução</h3>
+  <p>Para iniciar o jogo, execute o seguinte comando:</p>
+  <code>node src/index.js</code>
