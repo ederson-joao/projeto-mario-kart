@@ -1,4 +1,4 @@
-<h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
+<h1>Desafio de projeto da DIO.me: Mario Kart.JS no curso de Formação Node.js Fundamentals</h1>
 
   <table>
         <tr>
